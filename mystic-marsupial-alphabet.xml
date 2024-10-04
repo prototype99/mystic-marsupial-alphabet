@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gnm:Workbook xmlns:gnm="http://www.gnumeric.org/v10.dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gnumeric.org/v9.xsd">
+  <gnm:Version Epoch="1" Major="12" Minor="57" Full="1.12.57"/>
+  <gnm:Attributes>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::show_horizontal_scrollbar</gnm:name>
+      <gnm:value>TRUE</gnm:value>
+    </gnm:Attribute>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::show_vertical_scrollbar</gnm:name>
+      <gnm:value>TRUE</gnm:value>
+    </gnm:Attribute>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::show_notebook_tabs</gnm:name>
+      <gnm:value>TRUE</gnm:value>
+    </gnm:Attribute>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::do_auto_completion</gnm:name>
+      <gnm:value>TRUE</gnm:value>
+    </gnm:Attribute>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::is_protected</gnm:name>
+      <gnm:value>FALSE</gnm:value>
+    </gnm:Attribute>
+  </gnm:Attributes>
+  <office:document-meta xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:ooo="http://openoffice.org/2004/office" office:version="1.2">
+    <office:meta>
+      <dc:date>2024-10-04T12:03:32Z</dc:date>
+      <meta:creation-date>2024-10-03T23:11:27Z</meta:creation-date>
+    </office:meta>
+  </office:document-meta>
+  <gnm:Calculation ManualRecalc="0" EnableIteration="1" MaxIterations="100" IterationTolerance="0.001" FloatRadix="2" FloatDigits="53"/>
+  <gnm:SheetNameIndex>
+    <gnm:SheetName gnm:Cols="256" gnm:Rows="65536">Sheet1</gnm:SheetName>
+  </gnm:SheetNameIndex>
+  <gnm:Geometry Width="1920" Height="795"/>
+  <gnm:Sheets>
+    <gnm:Sheet DisplayFormulas="0" HideZero="0" HideGrid="0" HideColHeader="0" HideRowHeader="0" DisplayOutlines="1" OutlineSymbolsBelow="1" OutlineSymbolsRight="1" Visibility="GNM_SHEET_VISIBILITY_VISIBLE" GridColor="0:0:0">
+      <gnm:Name>Sheet1</gnm:Name>
+      <gnm:MaxCol>6</gnm:MaxCol>
+      <gnm:MaxRow>64</gnm:MaxRow>
+      <gnm:Zoom>1</gnm:Zoom>
+      <gnm:Names>
+        <gnm:Name>
+          <gnm:name>Print_Area</gnm:name>
+          <gnm:value>#REF!</gnm:value>
+          <gnm:position>A1</gnm:position>
+        </gnm:Name>
+        <gnm:Name>
+          <gnm:name>Sheet_Title</gnm:name>
+          <gnm:value>&quot;Sheet1&quot;</gnm:value>
+          <gnm:position>A1</gnm:position>
+        </gnm:Name>
+      </gnm:Names>
+      <gnm:PrintInformation>
+        <gnm:Margins>
+          <gnm:top Points="120" PrefUnit="mm"/>
+          <gnm:bottom Points="120" PrefUnit="mm"/>
+          <gnm:left Points="72" PrefUnit="mm"/>
+          <gnm:right Points="72" PrefUnit="mm"/>
+          <gnm:header Points="72" PrefUnit="mm"/>
+          <gnm:footer Points="72" PrefUnit="mm"/>
+        </gnm:Margins>
+        <gnm:Scale type="percentage" percentage="100"/>
+        <gnm:vcenter value="0"/>
+        <gnm:hcenter value="0"/>
+        <gnm:grid value="0"/>
+        <gnm:even_if_only_styles value="0"/>
+        <gnm:monochrome value="0"/>
+        <gnm:draft value="0"/>
+        <gnm:titles value="0"/>
+        <gnm:do_not_print value="0"/>
+        <gnm:print_range value="GNM_PRINT_ACTIVE_SHEET"/>
+        <gnm:order>d_then_r</gnm:order>
+        <gnm:orientation>portrait</gnm:orientation>
+        <gnm:Header Left="" Middle="&amp;[TAB]" Right=""/>
+        <gnm:Footer Left="" Middle="Page &amp;[PAGE]" Right=""/>
+        <gnm:paper>iso_a4</gnm:paper>
+        <gnm:comments placement="GNM_PRINT_COMMENTS_IN_PLACE"/>
+        <gnm:errors PrintErrorsAs="GNM_PRINT_ERRORS_AS_DISPLAYED"/>
+      </gnm:PrintInformation>
+      <gnm:Styles>
+        <gnm:StyleRegion startCol="0" startRow="0" endCol="0" endRow="65535">
+          <gnm:Style HAlign="GNM_HALIGN_RIGHT" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="1" startRow="0" endCol="255" endRow="65535">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+      </gnm:Styles>
+      <gnm:Cols DefaultSizePts="67.5">
+        <gnm:ColInfo No="0" Unit="30.75"/>
+        <gnm:ColInfo No="1" Unit="420"/>
+        <gnm:ColInfo No="2" Unit="315.8"/>
+        <gnm:ColInfo No="3" Unit="783.8"/>
+      </gnm:Cols>
+      <gnm:Rows DefaultSizePts="15"/>
+      <gnm:Selections CursorCol="1" CursorRow="30">
+        <gnm:Selection startCol="1" startRow="30" endCol="1" endRow="30"/>
+      </gnm:Selections>
+      <gnm:Cells>
+        <gnm:Cell Row="0" Col="0" ValueType="60">Glyph</gnm:Cell>
+        <gnm:Cell Row="0" Col="1" ValueType="60">shape</gnm:Cell>
+        <gnm:Cell Row="0" Col="2" ValueType="60">etymic meaning</gnm:Cell>
+        <gnm:Cell Row="0" Col="3" ValueType="60">symbolic meaning</gnm:Cell>
+        <gnm:Cell Row="1" Col="0" ValueType="60">Æth</gnm:Cell>
+        <gnm:Cell Row="1" Col="1" ValueType="60">A looped shape with a small tail at the bottom, resembling a stylized &quot;a&quot; with a flourish.</gnm:Cell>
+        <gnm:Cell Row="1" Col="2" ValueType="60">&quot;&quot;Aether&quot;&quot; to evoke the concept of a mystical or divine substance.&quot;</gnm:Cell>
+        <gnm:Cell Row="1" Col="3" ValueType="60">*Balance*: Representing equilibrium and harmony, th symbolizes the balance between different forces and elements in the universe.</gnm:Cell>
+        <gnm:Cell Row="2" Col="0" ValueType="60">Bhyr</gnm:Cell>
+        <gnm:Cell Row="2" Col="1" ValueType="60">A shape similar to a &quot;b&quot; but with an additional curve at the top, almost like a &quot;b&quot; with a hat.</gnm:Cell>
+        <gnm:Cell Row="2" Col="2" ValueType="60">&quot;&quot;Bramble&quot;&quot; to suggest something intricate and intertwined.&quot;</gnm:Cell>
+        <gnm:Cell Row="2" Col="3" ValueType="60">*Strength*: Bhyr embodies physical and mental strength, resilience, and the ability to overcome challenges.</gnm:Cell>
+        <gnm:Cell Row="3" Col="0" ValueType="60">Chyr</gnm:Cell>
+        <gnm:Cell Row="3" Col="1" ValueType="60">A combination of &quot;c&quot; and &quot;y,&quot; where the tail of the &quot;c&quot; wraps around to form a loop.</gnm:Cell>
+        <gnm:Cell Row="3" Col="2" ValueType="60">&quot;&quot;Chimera&quot;&quot; to evoke a mythical and fantastical creature.&quot;</gnm:Cell>
+        <gnm:Cell Row="3" Col="3" ValueType="60">*Wisdom*: Chyr stands for knowledge, insight, and the pursuit of wisdom, guiding individuals toward understanding and enlightenment.</gnm:Cell>
+        <gnm:Cell Row="4" Col="0" ValueType="60">Dhyr</gnm:Cell>
+        <gnm:Cell Row="4" Col="1" ValueType="60">A &quot;d&quot; with a horizontal line through the middle, creating a cross shape.</gnm:Cell>
+        <gnm:Cell Row="4" Col="2" ValueType="60">&quot;&quot;Dusk&quot;&quot; to convey a sense of twilight or transition.&quot;</gnm:Cell>
+        <gnm:Cell Row="4" Col="3" ValueType="60">*Change*: Dhyr represents transformation, growth, and the cyclical nature of life, symbolizing the constant flux and evolution of all things.</gnm:Cell>
+        <gnm:Cell Row="5" Col="0" ValueType="60">Eyr</gnm:Cell>
+        <gnm:Cell Row="5" Col="1" ValueType="60">An &quot;e&quot; with a diagonal line crossing it from the bottom left to the top right.</gnm:Cell>
+        <gnm:Cell Row="5" Col="2" ValueType="60">&quot;&quot;Echo&quot;&quot; to suggest a sound that carries through time and space&quot;</gnm:Cell>
+        <gnm:Cell Row="5" Col="3" ValueType="60">*Creativity*: Eyr embodies imagination, innovation, and the creative spark that drives artistic expression and problem-solving.</gnm:Cell>
+        <gnm:Cell Row="6" Col="0" ValueType="60">Fyr</gnm:Cell>
+        <gnm:Cell Row="6" Col="1" ValueType="60">A &quot;f&quot; with an additional curve at the top, making it look like a &quot;f&quot; with a hat.</gnm:Cell>
+        <gnm:Cell Row="6" Col="2" ValueType="60">&quot;&quot;Frost&quot;&quot; to evoke the crisp and cool essence of winter.&quot;</gnm:Cell>
+        <gnm:Cell Row="6" Col="3" ValueType="60">*Passion*: Fyr symbolizes intense emotion, desire, and the fiery spirit that fuels one's passions and drives them forward.</gnm:Cell>
+        <gnm:Cell Row="7" Col="0" ValueType="60">Ghyr</gnm:Cell>
+        <gnm:Cell Row="7" Col="1" ValueType="60">A &quot;g&quot; with an additional loop at the top, resembling a &quot;g&quot; with a curly top.</gnm:Cell>
+        <gnm:Cell Row="7" Col="2" ValueType="60">&quot;&quot;Glimmer&quot;&quot; to suggest a fleeting spark of light.&quot;</gnm:Cell>
+        <gnm:Cell Row="7" Col="3" ValueType="60">*Connection*: Ghyr represents unity, bonds, and the interconnectedness of all things, emphasizing the importance of relationships and community.</gnm:Cell>
+        <gnm:Cell Row="8" Col="0" ValueType="60">Hyr</gnm:Cell>
+        <gnm:Cell Row="8" Col="1" ValueType="60">An &quot;h&quot; with a vertical line extending from the middle to the bottom, creating a stylized look.</gnm:Cell>
+        <gnm:Cell Row="8" Col="2" ValueType="60">&quot;&quot;Harmony&quot;&quot; to convey a sense of unity and balance.&quot;</gnm:Cell>
+        <gnm:Cell Row="8" Col="3" ValueType="60">*Protection*: Hyr symbolizes safeguarding, defense, and the preservation of what is valuable, embodying the spirit of guardianship and care.</gnm:Cell>
+        <gnm:Cell Row="9" Col="0" ValueType="60">Iyr</gnm:Cell>
+        <gnm:Cell Row="9" Col="1" ValueType="60">An &quot;i&quot; with a small loop at the top, making it look like a &quot;i&quot; with a hat.</gnm:Cell>
+        <gnm:Cell Row="9" Col="2" ValueType="60">&quot;&quot;Ignis&quot;&quot; to represent fire and passion.&quot;</gnm:Cell>
+        <gnm:Cell Row="9" Col="3" ValueType="60">*Purity*: Iyr stands for innocence, clarity, and the essence of pure intent, reflecting the untainted nature of the human spirit.</gnm:Cell>
+        <gnm:Cell Row="10" Col="0" ValueType="60">Jyr</gnm:Cell>
+        <gnm:Cell Row="10" Col="1" ValueType="60">A &quot;j&quot; with an additional curve at the top, resembling a &quot;j&quot; with a curly top.</gnm:Cell>
+        <gnm:Cell Row="10" Col="2" ValueType="60">&quot;&quot;Jade&quot;&quot; to evoke the smooth and precious quality of the gemstone.&quot;</gnm:Cell>
+        <gnm:Cell Row="10" Col="3" ValueType="60">*Adaptability*: Jyr embodies flexibility, adaptability, and the ability to thrive in diverse circumstances, reflecting the resilience of life.</gnm:Cell>
+        <gnm:Cell Row="11" Col="0" ValueType="60">Kyr</gnm:Cell>
+        <gnm:Cell Row="11" Col="1" ValueType="60">A &quot;k&quot; with a diagonal line crossing it from the top left to the bottom right.</gnm:Cell>
+        <gnm:Cell Row="11" Col="2" ValueType="60">&quot;&quot;Kaleidoscope&quot;&quot; to suggest a dynamic and ever-changing pattern.&quot;</gnm:Cell>
+        <gnm:Cell Row="11" Col="3" ValueType="60">*Courage*: Kyr symbolizes bravery, valor, and the willingness to face challenges head-on, representing the strength of heart and mind.</gnm:Cell>
+        <gnm:Cell Row="12" Col="0" ValueType="60">Lyr</gnm:Cell>
+        <gnm:Cell Row="12" Col="1" ValueType="60">An &quot;l&quot; with a small loop at the top, making it look like an &quot;l&quot; with a hat.</gnm:Cell>
+        <gnm:Cell Row="12" Col="2" ValueType="60">&quot;&quot;Luminous&quot;&quot; to convey a bright and radiant quality.&quot;</gnm:Cell>
+        <gnm:Cell Row="12" Col="3" ValueType="60">*Light*: Lyr represents illumination, hope, and the guiding light that leads one through darkness, embodying the power of positivity and enlightenment.</gnm:Cell>
+        <gnm:Cell Row="13" Col="0" ValueType="60">Myr</gnm:Cell>
+        <gnm:Cell Row="13" Col="1" ValueType="60">A &quot;m&quot; with an additional curve at the top, creating a stylized look.</gnm:Cell>
+        <gnm:Cell Row="13" Col="2" ValueType="60">&quot;&quot;Mystic&quot;&quot; to evoke a sense of mystery and enchantment.&quot;</gnm:Cell>
+        <gnm:Cell Row="13" Col="3" ValueType="60">*Balance*: Myr symbolizes harmony, equilibrium, and the art of finding balance in life, representing the interplay between different aspects of existence.</gnm:Cell>
+        <gnm:Cell Row="14" Col="0" ValueType="60">Nyr</gnm:Cell>
+        <gnm:Cell Row="14" Col="1" ValueType="60">An &quot;n&quot; with a vertical line extending from the middle to the bottom.</gnm:Cell>
+        <gnm:Cell Row="14" Col="2" ValueType="60">&quot;&quot;Nexus&quot;&quot; to represent a connection or intersection of paths.&quot;</gnm:Cell>
+        <gnm:Cell Row="14" Col="3" ValueType="60">*Curiosity*: Nyr embodies inquisitiveness, exploration, and the drive to seek knowledge and understand the world around us.</gnm:Cell>
+        <gnm:Cell Row="15" Col="0" ValueType="60">Oyr</gnm:Cell>
+        <gnm:Cell Row="15" Col="1" ValueType="60">An &quot;o&quot; with a horizontal line through the middle, creating a cross shape.</gnm:Cell>
+        <gnm:Cell Row="15" Col="2" ValueType="60">&quot;&quot;Orion&quot;&quot; to evoke the famous constellation.&quot;</gnm:Cell>
+        <gnm:Cell Row="15" Col="3" ValueType="60">*Wholeness*: Oyr represents completeness, unity, and the integration of all parts into a whole, reflecting the interconnected nature of life.</gnm:Cell>
+        <gnm:Cell Row="16" Col="0" ValueType="60">Pryr</gnm:Cell>
+        <gnm:Cell Row="16" Col="1" ValueType="60">A &quot;p&quot; with an additional loop at the top, resembling a &quot;p&quot; with a curly top.</gnm:Cell>
+        <gnm:Cell Row="16" Col="2" ValueType="60">&quot;&quot;Pinnacle&quot;&quot; to suggest the highest point or peak.&quot;</gnm:Cell>
+        <gnm:Cell Row="16" Col="3" ValueType="60">*Strength*: Pyr symbolizes physical and mental fortitude, resilience, and the ability to overcome obstacles, embodying inner power and determination.</gnm:Cell>
+        <gnm:Cell Row="17" Col="0" ValueType="60">Qyr</gnm:Cell>
+        <gnm:Cell Row="17" Col="1" ValueType="60">A &quot;q&quot; with a vertical line extending from the middle to the bottom.</gnm:Cell>
+        <gnm:Cell Row="17" Col="2" ValueType="60">&quot;&quot;Quasar&quot;&quot; to represent a distant and powerful celestial object.&quot;</gnm:Cell>
+        <gnm:Cell Row="17" Col="3" ValueType="60">*Reflection*: Qyr stands for introspection, self-awareness, and the process of examining one's thoughts and emotions, fostering personal growth and understanding.</gnm:Cell>
+        <gnm:Cell Row="18" Col="0" ValueType="60">Ryr</gnm:Cell>
+        <gnm:Cell Row="18" Col="1" ValueType="60">An &quot;r&quot; with a diagonal line crossing it from the top right to the bottom left.</gnm:Cell>
+        <gnm:Cell Row="18" Col="2" ValueType="60">&quot;&quot;Riddle&quot;&quot; to convey a sense of mystery and puzzlement.&quot;</gnm:Cell>
+        <gnm:Cell Row="18" Col="3" ValueType="60">*Journey*: Ryr embodies the path of life, the adventures we undertake, and the experiences that shape us, reflecting the importance of the journey over the destination.</gnm:Cell>
+        <gnm:Cell Row="19" Col="0" ValueType="60">Syr</gnm:Cell>
+        <gnm:Cell Row="19" Col="1" ValueType="60">An &quot;s&quot; with a small loop at the top, making it look like an &quot;s&quot; with a hat.</gnm:Cell>
+        <gnm:Cell Row="19" Col="2" ValueType="60">&quot;&quot;Serene&quot;&quot; to evoke a sense of calm and tranquility.&quot;</gnm:Cell>
+        <gnm:Cell Row="19" Col="3" ValueType="60">*Connection*: Syr represents bonds, relationships, and the connections that bring people together, highlighting the significance of community and shared experiences.</gnm:Cell>
+        <gnm:Cell Row="20" Col="0" ValueType="60">Tryr</gnm:Cell>
+        <gnm:Cell Row="20" Col="1" ValueType="60">A &quot;t&quot; with an additional curve at the top, creating a stylized look.</gnm:Cell>
+        <gnm:Cell Row="20" Col="2" ValueType="60">&quot;&quot;Tide&quot;&quot; to represent the ebb and flow of water.&quot;</gnm:Cell>
+        <gnm:Cell Row="20" Col="3" ValueType="60">*Creativity*: Tryr symbolizes imagination, innovation, and the ability to create, reflecting the power of human ingenuity and expression.</gnm:Cell>
+        <gnm:Cell Row="21" Col="0" ValueType="60">Uyr</gnm:Cell>
+        <gnm:Cell Row="21" Col="1" ValueType="60">An &quot;u&quot; with a vertical line extending from the middle to the bottom.</gnm:Cell>
+        <gnm:Cell Row="21" Col="2" ValueType="60">&quot;&quot;Utopia&quot;&quot; to suggest an ideal or perfect society.&quot;</gnm:Cell>
+        <gnm:Cell Row="21" Col="3" ValueType="60">*Serenity*: Uyr embodies peace, calmness, and inner tranquility, representing the stillness and balance found within.</gnm:Cell>
+        <gnm:Cell Row="22" Col="0" ValueType="60">Vyr</gnm:Cell>
+        <gnm:Cell Row="22" Col="1" ValueType="60">A &quot;v&quot; with a small loop at the top, making it look like a &quot;v&quot; with a hat.</gnm:Cell>
+        <gnm:Cell Row="22" Col="2" ValueType="60">&quot;&quot;Verdant&quot;&quot; to the lush and vibrant quality of nature.&quot;</gnm:Cell>
+        <gnm:Cell Row="22" Col="3" ValueType="60">*Vitality*: Vyr symbolizes energy, vitality, and the life force that drives us forward, reflecting the dynamism and vibrancy of existence.</gnm:Cell>
+        <gnm:Cell Row="23" Col="0" ValueType="60">Wyr</gnm:Cell>
+        <gnm:Cell Row="23" Col="1" ValueType="60">A &quot;w&quot; with an additional curve at the top, creating a stylized look.</gnm:Cell>
+        <gnm:Cell Row="23" Col="2" ValueType="60">&quot;&quot;Whisper&quot;&quot; to suggest a soft and gentle sound.&quot;</gnm:Cell>
+        <gnm:Cell Row="23" Col="3" ValueType="60">*Wisdom*: Wyr represents knowledge, insight, and the accumulation of experience, embodying the wisdom gained through life's journey.</gnm:Cell>
+        <gnm:Cell Row="24" Col="0" ValueType="60">Xyr</gnm:Cell>
+        <gnm:Cell Row="24" Col="1" ValueType="60">An &quot;x&quot; with a small loop at the top, making it look like an &quot;x&quot; with a hat.</gnm:Cell>
+        <gnm:Cell Row="24" Col="2" ValueType="60">&quot;&quot;Xenon&quot;&quot; to represent a rare and exotic gas.&quot;</gnm:Cell>
+        <gnm:Cell Row="24" Col="3" ValueType="60">*Exploration*: Xyr stands for curiosity, discovery, and the pursuit of new knowledge and experiences.</gnm:Cell>
+        <gnm:Cell Row="25" Col="0" ValueType="60">Yyr</gnm:Cell>
+        <gnm:Cell Row="25" Col="1" ValueType="60">A &quot;y&quot; with a vertical line extending from the middle to the bottom.</gnm:Cell>
+        <gnm:Cell Row="25" Col="2" ValueType="60">&quot;&quot;Yule&quot;&quot; to the festive spirit of the winter solstice.&quot;</gnm:Cell>
+        <gnm:Cell Row="25" Col="3" ValueType="60">*Unity*: Yyr represents harmony, connection, and the coming together of diverse elements.</gnm:Cell>
+        <gnm:Cell Row="26" Col="0" ValueType="60">Zyr</gnm:Cell>
+        <gnm:Cell Row="26" Col="1" ValueType="60">A &quot;z&quot; with an additional curve at the top, resembling a &quot;z&quot; with a curly top.</gnm:Cell>
+        <gnm:Cell Row="26" Col="2" ValueType="60">&quot;&quot;Zephyr&quot;&quot; to represent a gentle breeze.&quot;</gnm:Cell>
+        <gnm:Cell Row="26" Col="3" ValueType="60">*Adaptability*: Zyr embodies flexibility, resilience, and the ability to adapt to changing circumstances.</gnm:Cell>
+      </gnm:Cells>
+      <gnm:SheetLayout TopLeft="A1"/>
+      <gnm:Solver ModelType="0" ProblemType="0" MaxTime="60" MaxIter="1000" NonNeg="1" Discr="0" AutoScale="0" ProgramR="0" SensitivityR="0"/>
+    </gnm:Sheet>
+  </gnm:Sheets>
+  <gnm:UIData SelectedTab="0"/>
+</gnm:Workbook>
