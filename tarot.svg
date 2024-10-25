@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.90166072"
-     inkscape:cx="665.43877"
-     inkscape:cy="130.31509"
+     inkscape:zoom="1.1600778"
+     inkscape:cx="271.53352"
+     inkscape:cy="252.13827"
      inkscape:window-width="1920"
      inkscape:window-height="1024"
      inkscape:window-x="0"
@@ -668,10 +668,10 @@
        y="-56.992485"
        id="text1"><tspan
          sodipodi:role="line"
-         id="tspan1"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'OCR A';-inkscape-font-specification:'OCR A';fill:#ffffff;fill-opacity:1;stroke-width:0.112"
          x="-211.79315"
-         y="-56.992485">Kaleidoscope</tspan></text><text
+         y="-56.992485"
+         id="tspan2">Aether</tspan></text><text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'FantasqueSansM Nerd Font Mono';-inkscape-font-specification:'FantasqueSansM Nerd Font Mono';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.112"
        x="-211.79315"
@@ -681,7 +681,7 @@
          id="tspan1-3"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'OCR A';-inkscape-font-specification:'OCR A';fill:#ffffff;fill-opacity:1;stroke-width:0.112"
          x="-211.79315"
-         y="-5.0143929">Kaleidoscope</tspan></text><text
+         y="-5.0143929">Nexus</tspan></text><text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'FantasqueSansM Nerd Font Mono';-inkscape-font-specification:'FantasqueSansM Nerd Font Mono';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.112"
        x="136.19719"
@@ -691,7 +691,7 @@
          id="tspan1-1"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'OCR A';-inkscape-font-specification:'OCR A';fill:#ffffff;fill-opacity:1;stroke-width:0.112"
          x="136.19719"
-         y="-56.992485">Kaleidoscope</tspan></text><text
+         y="-56.992485">Luminous</tspan></text><text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'FantasqueSansM Nerd Font Mono';-inkscape-font-specification:'FantasqueSansM Nerd Font Mono';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.112"
        x="9.6552429"
@@ -701,7 +701,7 @@
          id="tspan1-6"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'OCR A';-inkscape-font-specification:'OCR A';fill:#ffffff;fill-opacity:1;stroke-width:0.112"
          x="9.6552429"
-         y="-56.992485">Kaleidoscope</tspan></text><text
+         y="-56.992485">Harmony</tspan></text><text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'FantasqueSansM Nerd Font Mono';-inkscape-font-specification:'FantasqueSansM Nerd Font Mono';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.112"
        x="-85.251213"
@@ -711,7 +711,7 @@
          id="tspan1-18"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'OCR A';-inkscape-font-specification:'OCR A';fill:#ffffff;fill-opacity:1;stroke-width:0.112"
          x="-85.251213"
-         y="-5.0143929">Kaleidoscope</tspan></text><text
+         y="-5.0143929">Riddle</tspan></text><text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'FantasqueSansM Nerd Font Mono';-inkscape-font-specification:'FantasqueSansM Nerd Font Mono';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.112"
        x="-116.8867"
@@ -721,7 +721,7 @@
          id="tspan1-2"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'OCR A';-inkscape-font-specification:'OCR A';fill:#ffffff;fill-opacity:1;stroke-width:0.112"
          x="-116.8867"
-         y="-56.992485">Kaleidoscope</tspan></text><text
+         y="-56.992485">Dusk</tspan></text><text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'FantasqueSansM Nerd Font Mono';-inkscape-font-specification:'FantasqueSansM Nerd Font Mono';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.112"
        x="41.29073"
@@ -731,7 +731,7 @@
          id="tspan1-28"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'OCR A';-inkscape-font-specification:'OCR A';fill:#ffffff;fill-opacity:1;stroke-width:0.112"
          x="41.29073"
-         y="-5.0143929">Kaleidoscope</tspan></text><text
+         y="-5.0143929">Verdant</tspan></text><text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'FantasqueSansM Nerd Font Mono';-inkscape-font-specification:'FantasqueSansM Nerd Font Mono';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.112"
        x="9.6552429"
@@ -741,7 +741,7 @@
          id="tspan1-29"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'OCR A';-inkscape-font-specification:'OCR A';fill:#ffffff;fill-opacity:1;stroke-width:0.112"
          x="9.6552429"
-         y="-5.0143929">Kaleidoscope</tspan></text><text
+         y="-5.0143929">Utopia</tspan></text><text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'FantasqueSansM Nerd Font Mono';-inkscape-font-specification:'FantasqueSansM Nerd Font Mono';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.112"
        x="-53.615726"
@@ -751,7 +751,7 @@
          id="tspan1-7"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'OCR A';-inkscape-font-specification:'OCR A';fill:#ffffff;fill-opacity:1;stroke-width:0.112"
          x="-53.615726"
-         y="-56.992485">Kaleidoscope</tspan></text><text
+         y="-56.992485">Frost</tspan></text><text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'FantasqueSansM Nerd Font Mono';-inkscape-font-specification:'FantasqueSansM Nerd Font Mono';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.112"
        x="41.29073"
@@ -761,7 +761,7 @@
          id="tspan1-61"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'OCR A';-inkscape-font-specification:'OCR A';fill:#ffffff;fill-opacity:1;stroke-width:0.112"
          x="41.29073"
-         y="-56.992485">Kaleidoscope</tspan></text><text
+         y="-56.992485">Ignis</tspan></text><text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'FantasqueSansM Nerd Font Mono';-inkscape-font-specification:'FantasqueSansM Nerd Font Mono';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.112"
        x="-148.52219"
@@ -771,7 +771,7 @@
          id="tspan1-0"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'OCR A';-inkscape-font-specification:'OCR A';fill:#ffffff;fill-opacity:1;stroke-width:0.112"
          x="-148.52219"
-         y="-5.0143929">Kaleidoscope</tspan></text><text
+         y="-5.0143929">Pinnacle</tspan></text><text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'FantasqueSansM Nerd Font Mono';-inkscape-font-specification:'FantasqueSansM Nerd Font Mono';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.112"
        x="-21.980242"
@@ -781,7 +781,7 @@
          id="tspan1-76"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'OCR A';-inkscape-font-specification:'OCR A';fill:#ffffff;fill-opacity:1;stroke-width:0.112"
          x="-21.980242"
-         y="-56.992485">Kaleidoscope</tspan></text><text
+         y="-56.992485">Glimmer</tspan></text><text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'FantasqueSansM Nerd Font Mono';-inkscape-font-specification:'FantasqueSansM Nerd Font Mono';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.112"
        x="-180.15767"
@@ -791,7 +791,7 @@
          id="tspan1-74"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'OCR A';-inkscape-font-specification:'OCR A';fill:#ffffff;fill-opacity:1;stroke-width:0.112"
          x="-180.15767"
-         y="-5.0143929">Kaleidoscope</tspan></text><text
+         y="-5.0143929">Orion</tspan></text><text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'FantasqueSansM Nerd Font Mono';-inkscape-font-specification:'FantasqueSansM Nerd Font Mono';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.112"
        x="167.83267"
@@ -801,7 +801,7 @@
          id="tspan1-4"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'OCR A';-inkscape-font-specification:'OCR A';fill:#ffffff;fill-opacity:1;stroke-width:0.112"
          x="167.83267"
-         y="-56.992485">Kaleidoscope</tspan></text><text
+         y="-56.992485">Mystic</tspan></text><text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'FantasqueSansM Nerd Font Mono';-inkscape-font-specification:'FantasqueSansM Nerd Font Mono';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.112"
        x="-85.251213"
@@ -811,7 +811,7 @@
          id="tspan1-8"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'OCR A';-inkscape-font-specification:'OCR A';fill:#ffffff;fill-opacity:1;stroke-width:0.112"
          x="-85.251213"
-         y="-56.992485">Kaleidoscope</tspan></text><text
+         y="-56.992485">Echo</tspan></text><text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'FantasqueSansM Nerd Font Mono';-inkscape-font-specification:'FantasqueSansM Nerd Font Mono';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.112"
        x="-53.615726"
@@ -821,7 +821,7 @@
          id="tspan1-14"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'OCR A';-inkscape-font-specification:'OCR A';fill:#ffffff;fill-opacity:1;stroke-width:0.112"
          x="-53.615726"
-         y="-5.0143929">Kaleidoscope</tspan></text><text
+         y="-5.0143929">Serene</tspan></text><text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'FantasqueSansM Nerd Font Mono';-inkscape-font-specification:'FantasqueSansM Nerd Font Mono';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.112"
        x="72.926216"
@@ -831,7 +831,7 @@
          id="tspan1-9"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'OCR A';-inkscape-font-specification:'OCR A';fill:#ffffff;fill-opacity:1;stroke-width:0.112"
          x="72.926216"
-         y="-56.992485">Kaleidoscope</tspan></text><text
+         y="-56.992485">Jade</tspan></text><text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'FantasqueSansM Nerd Font Mono';-inkscape-font-specification:'FantasqueSansM Nerd Font Mono';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.112"
        x="-116.8867"
@@ -841,7 +841,7 @@
          id="tspan1-5"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'OCR A';-inkscape-font-specification:'OCR A';fill:#ffffff;fill-opacity:1;stroke-width:0.112"
          x="-116.8867"
-         y="-5.0143929">Kaleidoscope</tspan></text><text
+         y="-5.0143929">Quasar</tspan></text><text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'FantasqueSansM Nerd Font Mono';-inkscape-font-specification:'FantasqueSansM Nerd Font Mono';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.112"
        x="72.926216"
@@ -851,7 +851,7 @@
          id="tspan1-72"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'OCR A';-inkscape-font-specification:'OCR A';fill:#ffffff;fill-opacity:1;stroke-width:0.112"
          x="72.926216"
-         y="-5.0143929">Kaleidoscope</tspan></text><text
+         y="-5.0143929">Whisper</tspan></text><text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'FantasqueSansM Nerd Font Mono';-inkscape-font-specification:'FantasqueSansM Nerd Font Mono';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.112"
        x="167.83267"
@@ -861,7 +861,7 @@
          id="tspan1-615"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'OCR A';-inkscape-font-specification:'OCR A';fill:#ffffff;fill-opacity:1;stroke-width:0.112"
          x="167.83267"
-         y="-5.0143929">Kaleidoscope</tspan></text><text
+         y="-5.0143929">Zephyr</tspan></text><text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'FantasqueSansM Nerd Font Mono';-inkscape-font-specification:'FantasqueSansM Nerd Font Mono';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.112"
        x="-21.980242"
@@ -871,7 +871,7 @@
          id="tspan1-17"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'OCR A';-inkscape-font-specification:'OCR A';fill:#ffffff;fill-opacity:1;stroke-width:0.112"
          x="-21.980242"
-         y="-5.0143929">Kaleidoscope</tspan></text><text
+         y="-5.0143929">Tide</tspan></text><text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'FantasqueSansM Nerd Font Mono';-inkscape-font-specification:'FantasqueSansM Nerd Font Mono';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.112"
        x="-148.52219"
@@ -881,7 +881,7 @@
          id="tspan1-77"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'OCR A';-inkscape-font-specification:'OCR A';fill:#ffffff;fill-opacity:1;stroke-width:0.112"
          x="-148.52219"
-         y="-56.992485">Kaleidoscope</tspan></text><text
+         y="-56.992485">Chimera</tspan></text><text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'FantasqueSansM Nerd Font Mono';-inkscape-font-specification:'FantasqueSansM Nerd Font Mono';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.112"
        x="-180.15767"
@@ -891,7 +891,7 @@
          id="tspan1-63"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'OCR A';-inkscape-font-specification:'OCR A';fill:#ffffff;fill-opacity:1;stroke-width:0.112"
          x="-180.15767"
-         y="-56.992485">Kaleidoscope</tspan></text><text
+         y="-56.992485">Bramble</tspan></text><text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'FantasqueSansM Nerd Font Mono';-inkscape-font-specification:'FantasqueSansM Nerd Font Mono';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.112"
        x="104.5617"
@@ -911,7 +911,7 @@
          id="tspan1-50"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'OCR A';-inkscape-font-specification:'OCR A';fill:#ffffff;fill-opacity:1;stroke-width:0.112"
          x="104.5617"
-         y="-5.0143929">Kaleidoscope</tspan></text><text
+         y="-5.0143929">Xenon</tspan></text><text
        xml:space="preserve"
        style="font-size:2.82222px;font-family:'FantasqueSansM Nerd Font Mono';-inkscape-font-specification:'FantasqueSansM Nerd Font Mono';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.112"
        x="136.19719"
@@ -921,4 +921,4 @@
          id="tspan1-611"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'OCR A';-inkscape-font-specification:'OCR A';fill:#ffffff;fill-opacity:1;stroke-width:0.112"
          x="136.19719"
-         y="-5.0143929">Kaleidoscope</tspan></text></g></svg>
+         y="-5.0143929">Yule</tspan></text></g></svg>
