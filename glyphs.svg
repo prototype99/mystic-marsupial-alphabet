@@ -9,7 +9,7 @@
    id="svg1"
    xml:space="preserve"
    inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
-   sodipodi:docname="tarot.svg"
+   sodipodi:docname="glyphs.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.0912054"
-     inkscape:cx="279.04921"
-     inkscape:cy="93.016404"
+     inkscape:zoom="2.1498608"
+     inkscape:cx="203.96669"
+     inkscape:cy="101.16934"
      inkscape:window-width="1920"
      inkscape:window-height="1024"
      inkscape:window-x="0"
@@ -1189,4 +1189,14 @@
        id="text2"><tspan
          sodipodi:role="line"
          id="tspan1"
-         style="stroke-width:0.112"></tspan></text></g></svg>
+         style="stroke-width:0.112" /></text><path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none"
+       d="m -195.54464,-47.017401 c -1.43438,2.071383 -4.40698,3.167414 -6.74137,2.00772 -1.62427,-0.89392 -1.92727,-3.189235 -0.99664,-4.688695 0.66021,-1.210762 2.04312,-1.706062 3.29158,-2.061917 1.36919,-0.381105 3.13525,-0.01848 3.77878,1.376553 0.78963,1.482325 0.2991,3.234613 0.83427,4.776717 0.19851,0.489228 0.56018,0.973371 1.11032,1.078173"
+       id="path4" /><path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none"
+       d="m -168.5019,-53.359329 c 0.36051,3.943421 -0.84693,7.830481 -0.59176,11.773434 1.97429,0.576515 5.17881,-0.650742 4.92806,-3.029659 -0.54248,-1.918666 -2.88795,-2.367845 -4.60231,-2.461469"
+       id="path5" /><path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none"
+       d="m -168.61826,-49.157169 c 0.86546,-2.245746 4.27323,-0.908263 4.46663,-0.200038"
+       id="path6"
+       sodipodi:nodetypes="cc" /></g></svg>
